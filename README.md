@@ -1,4 +1,4 @@
-# shopify-tcgplayer-price-updater
+# Shopify TCGPlayer Price Updater
 Automate checking of TCGplayer prices and push updated prices with the Shopify API
 
 ### Overview
